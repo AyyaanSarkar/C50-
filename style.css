@@ -1,0 +1,9 @@
+h1{
+    text-align: center;
+}
+
+.footer{
+    display:flex;
+    flex-wrap:wrap;
+    justify-content: flex-end;
+}
